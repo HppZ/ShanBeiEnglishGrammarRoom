@@ -1,0 +1,9 @@
+c:\users\haopeng\documents\visual studio 2015\Projects\ShanBeiEnglishGrammarRoom\ShanBeiEnglishGrammarRoom\bin\Debug\ShanBeiEnglishGrammarRoom.exe.config
+C:\Users\haopeng\documents\visual studio 2015\Projects\ShanBeiEnglishGrammarRoom\ShanBeiEnglishGrammarRoom\bin\Debug\ShanBeiEnglishGrammarRoom.exe
+C:\Users\haopeng\documents\visual studio 2015\Projects\ShanBeiEnglishGrammarRoom\ShanBeiEnglishGrammarRoom\bin\Debug\ShanBeiEnglishGrammarRoom.pdb
+C:\Users\haopeng\documents\visual studio 2015\Projects\ShanBeiEnglishGrammarRoom\ShanBeiEnglishGrammarRoom\bin\Debug\HtmlAgilityPack.dll
+C:\Users\haopeng\documents\visual studio 2015\Projects\ShanBeiEnglishGrammarRoom\ShanBeiEnglishGrammarRoom\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\haopeng\documents\visual studio 2015\Projects\ShanBeiEnglishGrammarRoom\ShanBeiEnglishGrammarRoom\bin\Debug\HtmlAgilityPack.xml
+C:\Users\haopeng\documents\visual studio 2015\Projects\ShanBeiEnglishGrammarRoom\ShanBeiEnglishGrammarRoom\obj\Debug\ShanBeiEnglishGrammarRoom.csprojResolveAssemblyReference.cache
+C:\Users\haopeng\documents\visual studio 2015\Projects\ShanBeiEnglishGrammarRoom\ShanBeiEnglishGrammarRoom\obj\Debug\ShanBeiEnglishGrammarRoom.exe
+C:\Users\haopeng\documents\visual studio 2015\Projects\ShanBeiEnglishGrammarRoom\ShanBeiEnglishGrammarRoom\obj\Debug\ShanBeiEnglishGrammarRoom.pdb
